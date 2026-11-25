@@ -1,6 +1,6 @@
-# EO-DAS Display
+# EO-DAS Shader
 
-EO-DAS Display is an omnidirectional display shader for Unity that combines feeds from six cameras.
+EO-DAS Shader is an omnidirectional display shader for Unity that combines feeds from six cameras.
 
 The cameras capture the scene along the positive and negative X, Y, and Z axes. Their RenderTextures are combined to produce a view-dependent display, simulating a see-through-cockpit view.
 
